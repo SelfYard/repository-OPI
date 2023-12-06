@@ -1,5 +1,5 @@
 // Program name
-Program Ырср1;
+Program Lab2;
 
 {A function is given. Calculate the value of the
 f(x,n) function if x ranges from 0.6 to 1.1 and has
