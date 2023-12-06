@@ -9,6 +9,8 @@ an increment of 1.
 // Determining the Console Program Type
 {$APPTYPE CONSOLE }
 
+// i LOVE CODING
+
 // Importing libraries
 Uses
   System.SysUtils;
